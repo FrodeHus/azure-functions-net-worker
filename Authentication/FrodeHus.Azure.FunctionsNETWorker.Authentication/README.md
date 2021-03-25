@@ -1,9 +1,4 @@
-# azure-functions-net-worker
-
-
-## Sample for the authentication package
-
-Install using `dotnet add package FrodeHus.Azure.FunctionsNETWorker.Authentication --version 1.0.0`
+## Sample configuration
 
 The middleware expects Azure AD configuration in the form of:
 
